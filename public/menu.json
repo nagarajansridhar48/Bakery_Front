@@ -1,0 +1,191 @@
+[
+  {
+    "_id": "244nnuf47Jjd1",
+    "recipe": "Gulab Jamun",
+    "description": "Soft, juicy & melt-in-mouth sweetness",
+    "image": "/images/recipes/rec1.png",
+    "catagory": "Signature Sweets",
+    "price": 120,
+    "ratings": 4.9
+  },
+  {
+    "_id": "244nnuf47Jjd2",
+    "recipe": "Rasgulla",
+    "description": "Spongy balls soaked in light sugar syrup",
+    "image": "/images/recipes/rec2.png",
+    "catagory": "Signature Sweets",
+    "price": 100,
+    "ratings": 4.9
+  },
+  {
+    "_id": "244nnuf47Jjd3",
+    "recipe": "Kaju Katli",
+    "description": "Diamond-shaped cashew nut fudge with almond toppings",
+    "image": "/images/recipes/rec3.png",
+    "catagory": "Signature Sweets",
+    "price": 250,
+    "ratings": 5
+  },
+  {
+    "_id": "244nnuf47Jjd4",
+    "recipe": "Ladoo",
+    "description": "Golden, aromatic and festive favorite",
+    "image": "/images/recipes/rec4.png",
+    "catagory": "Signature Sweets",
+    "price": 80,
+    "ratings": 4.7
+  },
+  {
+    "_id": "244nnuf47Jjd5",
+    "recipe": "Jalebi Mini",
+    "description": "Crispy coils dipped in sweet saffron syrup",
+    "image": "/images/recipes/rec5.png",
+    "catagory": "Signature Sweets",
+    "price": 90,
+    "ratings": 4.6
+  },
+  {
+    "_id": "244nnuf47Jjd6",
+    "recipe": "Samosa",
+    "description": "Crispy golden triangle with spiced potato filling",
+    "image": "/images/recipes/rec6.png",
+    "catagory": "Savory Bites",
+    "price": 50,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd7",
+    "recipe": "Onion Pakora",
+    "description": "Crunchy Onion fritters with gram flour coating",
+    "image": "/images/recipes/rec7.png",
+    "catagory": "Savory Bites",
+    "price": 70,
+    "ratings": 5
+  },
+  {
+    "_id": "244nnuf47Jjd8",
+    "recipe": "Kachori",
+    "description": "Stuffed flaky pastry bursting with flavor",
+    "image": "/images/recipes/rec8.png",
+    "catagory": "Savory Bites",
+    "price": 60,
+    "ratings": 4.7
+  },
+  {
+    "_id": "244nnuf47Jjd9",
+    "recipe": "Potato Chips",
+    "description": "Thin slice of potato with spicy masala",
+    "image": "/images/recipes/rec9.png",
+    "catagory": "Savory Bites",
+    "price": 29,
+    "ratings": 4.9
+  },
+  {
+    "_id": "244nnuf47Jjd10",
+    "recipe": "Banana Chips",
+    "description": "Crispy, golden & perfectly seasoned for every craving",
+    "image": "/images/recipes/rec10.png",
+    "catagory": "Savory Bites",
+    "price": 120,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd11",
+    "recipe": "Vegetable Puff",
+    "description": "Buttery puff pastry with spiced veggie filling",
+    "image": "/images/recipes/rec11.png",
+    "catagory": "Savory Bites",
+    "price": 90,
+    "ratings": 4.7
+  },
+  {
+    "_id": "244nnuf47Jjd12",
+    "recipe": "Black Forest Cake",
+    "description": "Classic chocolate cake with whipped cream layers",
+    "image": "/images/recipes/rec12.png",
+    "catagory": "Cakes & Pastries",
+    "price": 350,
+    "ratings": 4.9
+  },
+  {
+    "_id": "244nnuf47Jjd13",
+    "recipe": "Red Velvet Cake",
+    "description": "Soft, moist cake with cream cheese frosting",
+    "image": "/images/recipes/rec13.png",
+    "catagory": "Cakes & Pastries",
+    "price": 400,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd14",
+    "recipe": "Chocolate Truffle",
+    "description": "Rich chocolate indulgence for choco lovers",
+    "image": "/images/recipes/rec14.png",
+    "catagory": "Cakes & Pastries",
+    "price": 420,
+    "ratings": 4.9
+  },
+  {
+    "_id": "244nnuf47Jjd15",
+    "recipe": "Cheesecake",
+    "description": "Creamy delight with buttery biscuit base",
+    "image": "/images/recipes/rec15.png",
+    "catagory": "Cakes & Pastries",
+    "price": 450,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd16",
+    "recipe": "Strawberry Pastry",
+    "description": "Light sponge layered with strawberry cream",
+    "image": "/images/recipes/rec16.png",
+    "catagory": "Cakes & Pastries",
+    "price": 150,
+    "ratings": 4.7
+  },
+  {
+    "_id": "244nnuf47Jjd17",
+    "recipe": "Pineapple Pastry",
+    "description": "Classic pineapple layered sponge pastry",
+    "image": "/images/recipes/rec17.png",
+    "catagory": "Cakes & Pastries",
+    "price": 130,
+    "ratings": 4.6
+  },
+  {
+    "_id": "244nnuf47Jjd18",
+    "recipe": "Brownie",
+    "description": "Fudgy chocolate square of happiness",
+    "image": "/images/recipes/rec18.png",
+    "catagory": "Cakes & Pastries",
+    "price": 180,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd19",
+    "recipe": "Cupcake",
+    "description": "Cute mini cake topped with buttercream",
+    "image": "/images/recipes/rec19.png",
+    "catagory": "Cakes & Pastries",
+    "price": 15,
+    "ratings": 4.7
+  },
+  {
+    "_id": "244nnuf47Jjd20",
+    "recipe": "Fruit Tart",
+    "description": "Crunchy tart with creamy filling & fresh fruits",
+    "image": "/images/recipes/rec20.png",
+    "catagory": "Cakes & Pastries",
+    "price": 200,
+    "ratings": 4.8
+  },
+  {
+    "_id": "244nnuf47Jjd21",
+    "recipe": "Murukku",
+    "description": "Crispy, spiral delight with a savory crunch in every bite",
+    "image": "/images/recipes/rec21.png",
+    "catagory": "Savory Bites",
+    "price": 30,
+    "ratings": 4.9
+  }
+]
