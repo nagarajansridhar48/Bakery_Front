@@ -30,7 +30,7 @@ const Home = () => {
   }, []);
 
   useEffect(() => {
-    fetch("http://localhost:5050/display")
+    fetch("https://bakery-kdni.onrender.com/display")
       .then((res) => res.json())
       .then((resData) => {
         const items = resData.data || [];

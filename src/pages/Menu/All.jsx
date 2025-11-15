@@ -29,7 +29,7 @@ const MenuPage = () => {
   const navigate = useNavigate();
   const fetchData = async () => {
     try {
-      const res = await axios.get("http://localhost:5050/display");
+      const res = await axios.get("https://bakery-kdni.onrender.com/display");
       const data = res.data.data || [];
       setMenu(data);
       setFilteredItems(data);

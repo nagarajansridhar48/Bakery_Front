@@ -12,7 +12,7 @@ const Wishlist = () => {
   // Fetch wishlist
   const fetchWishlist = async () => {
     try {
-      const res = await axios.get(`http://localhost:5050/wishlist/${userId}`);
+      const res = await axios.get(`https://bakery-kdni.onrender.com/wishlist/${userId}`);
       setWishlist(res.data || []);
     } catch (err) {
       console.error("Error fetching wishlist:", err);
