@@ -696,7 +696,7 @@ const Checkout = () => {
         ...extraData,
       };
 
-      const res = await axios.post("http://localhost:5050/orders", orderData, {
+      const res = await axios.post("https://bakery-kdni.onrender.com/orders", orderData, {
         headers: { Authorization: `Bearer ${token}` },
       });
 
